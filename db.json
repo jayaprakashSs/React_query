@@ -1,0 +1,216 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Day 1: Getting Started with React",
+      "body": "Today, I learned how to set up a React project using Vite."
+    },
+    {
+      "id": 2,
+      "title": "Day 2: Components and JSX",
+      "body": "Created my first functional components and used JSX."
+    },
+    {
+      "id": 3,
+      "title": "Day 3: Props and State",
+      "body": "Explored how props and state work in React."
+    },
+    {
+      "id": 4,
+      "title": "Day 4: Handling Events",
+      "body": "Practiced event handlers like onClick and onChange."
+    },
+    {
+      "id": 5,
+      "title": "Day 5: Conditional Rendering",
+      "body": "Learned how to show/hide elements using conditions."
+    },
+    {
+      "id": 6,
+      "title": "Day 6: Lists and Keys",
+      "body": "Rendered lists using map() and handled keys properly."
+    },
+    {
+      "id": 7,
+      "title": "Day 7: Forms in React",
+      "body": "Built controlled forms with input fields and submit handlers."
+    },
+    {
+      "id": 8,
+      "title": "Day 8: useEffect Hook",
+      "body": "Used useEffect to run side effects and fetch data."
+    },
+    {
+      "id": 9,
+      "title": "Day 9: Custom Hooks",
+      "body": "Created reusable logic using custom hooks."
+    },
+    {
+      "id": 10,
+      "title": "Day 10: Context API",
+      "body": "Used React Context to manage global state."
+    },
+    {
+      "id": 11,
+      "title": "Day 11: React Router",
+      "body": "Implemented navigation using React Router DOM."
+    },
+    {
+      "id": 12,
+      "title": "Day 12: Axios + API Calls",
+      "body": "Fetched data using Axios and handled loading and error states."
+    },
+    {
+      "id": 13,
+      "title": "Day 13: React Query",
+      "body": "Used React Query for caching and auto-refetching data."
+    },
+    {
+      "id": 14,
+      "title": "Day 14: Material UI / Tailwind",
+      "body": "Integrated UI libraries for styling the app."
+    },
+    {
+      "id": 15,
+      "title": "Day 15: Authentication",
+      "body": "Learned how to implement login and private routes."
+    },
+    {
+      "id": 16,
+      "title": "Day 16: CRUD Operations",
+      "body": "Implemented create, read, update, delete for posts."
+    },
+    {
+      "id": 17,
+      "title": "Day 17: Deployment",
+      "body": "Deployed the app using Vercel and checked performance."
+    },
+    {
+      "id": 18,
+      "title": "Day 18: Code Splitting",
+      "body": "Improved performance using lazy loading and suspense."
+    },
+    {
+      "id": 19,
+      "title": "Day 19: Error Boundaries",
+      "body": "Handled unexpected runtime errors gracefully."
+    },
+    {
+      "id": 20,
+      "title": "Day 20: Final Review",
+      "body": "Reviewed everything and prepared documentation."
+    },
+        {
+      "id": 21,
+      "title": "Day 21: Performance Optimization",
+      "body": "Learned how to memoize components and avoid unnecessary re-renders."
+    },
+    {
+      "id": 22,
+      "title": "Day 22: React Profiler",
+      "body": "Used React DevTools Profiler to analyze component performance."
+    },
+    {
+      "id": 23,
+      "title": "Day 23: TypeScript with React",
+      "body": "Started using TypeScript to add types and interfaces to components."
+    },
+    {
+      "id": 24,
+      "title": "Day 24: Advanced Hooks",
+      "body": "Explored useReducer and useLayoutEffect for complex state logic."
+    },
+    {
+      "id": 25,
+      "title": "Day 25: Recoil for State Management",
+      "body": "Tried Recoil as an alternative to Redux and Context."
+    },
+    {
+      "id": 26,
+      "title": "Day 26: React + Firebase",
+      "body": "Integrated Firebase for authentication and real-time database."
+    },
+    {
+      "id": 27,
+      "title": "Day 27: Server Components",
+      "body": "Experimented with React Server Components for SSR."
+    },
+    {
+      "id": 28,
+      "title": "Day 28: CSS-in-JS",
+      "body": "Used styled-components and Emotion for scoped styling."
+    },
+    {
+      "id": 29,
+      "title": "Day 29: Testing with Jest",
+      "body": "Wrote unit tests for components using Jest and React Testing Library."
+    },
+    {
+      "id": 30,
+      "title": "Day 30: End-to-End Testing",
+      "body": "Performed E2E testing with Cypress for full user flows."
+    },
+    {
+      "id": 31,
+      "title": "Day 31: Real-time Chat App",
+      "body": "Built a chat app using Socket.IO with React frontend."
+    },
+    {
+      "id": 32,
+      "title": "Day 32: Dark Mode Toggle",
+      "body": "Implemented light/dark mode with Tailwind and localStorage."
+    },
+    {
+      "id": 33,
+      "title": "Day 33: Progressive Web App (PWA)",
+      "body": "Converted app into a PWA with offline capabilities."
+    },
+    {
+      "id": 34,
+      "title": "Day 34: File Upload Feature",
+      "body": "Added image/file upload with preview functionality."
+    },
+    {
+      "id": 35,
+      "title": "Day 35: Infinite Scroll",
+      "body": "Implemented infinite scrolling using Intersection Observer."
+    },
+    {
+      "id": 36,
+      "title": "Day 36: Drag and Drop",
+      "body": "Created draggable UI elements using react-beautiful-dnd."
+    },
+    {
+      "id": 37,
+      "title": "Day 37: Multi-language Support",
+      "body": "Added i18n support for multiple languages using react-i18next."
+    },
+    {
+      "id": 38,
+      "title": "Day 38: Payment Integration",
+      "body": "Integrated Stripe for handling payments in the app."
+    },
+    {
+      "id": 39,
+      "title": "Day 39: Admin Dashboard",
+      "body": "Built a dashboard for admins with charts and analytics."
+    },
+    {
+      "id": 40,
+      "title": "Day 40: Portfolio Showcase",
+      "body": "Showcased the entire project as part of my developer portfolio."
+    }
+  ],
+  "items": [
+    { "id": 1, "name": "Carrot", "color": "Orange", "vitamin": "A" },
+    { "id": 2, "name": "Spinach", "color": "Green", "vitamin": "K" },
+    { "id": 3, "name": "Blueberry", "color": "Blue", "vitamin": "C" },
+    { "id": 4, "name": "Banana", "color": "Yellow", "vitamin": "B6" },
+    { "id": 5, "name": "Tomato", "color": "Red", "vitamin": "C" },
+    { "id": 6, "name": "Pumpkin", "color": "Orange", "vitamin": "E" },
+    { "id": 7, "name": "Beetroot", "color": "Purple", "vitamin": "B9" },
+    { "id": 8, "name": "Broccoli", "color": "Green", "vitamin": "C" },
+    { "id": 9, "name": "Avocado", "color": "Green", "vitamin": "E" },
+    { "id": 10, "name": "Apple", "color": "Red", "vitamin": "C" }
+  ]
+}
