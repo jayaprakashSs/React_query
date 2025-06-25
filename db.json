@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "Day 1: Getting Started with React",
+      "title": " 1: hhhGetting Started with React",
       "body": "Today, I learned how to set up a React project using Vite."
     },
     {
@@ -100,7 +100,7 @@
       "title": "Day 20: Final Review",
       "body": "Reviewed everything and prepared documentation."
     },
-        {
+    {
       "id": 21,
       "title": "Day 21: Performance Optimization",
       "body": "Learned how to memoize components and avoid unnecessary re-renders."
@@ -212,5 +212,57 @@
     { "id": 8, "name": "Broccoli", "color": "Green", "vitamin": "C" },
     { "id": 9, "name": "Avocado", "color": "Green", "vitamin": "E" },
     { "id": 10, "name": "Apple", "color": "Red", "vitamin": "C" }
+  ],
+  "tanks": [
+    { "id": 1, "tankName": "S-Tank 1", "location": "Chennai", "waterLevel": 75 },
+    { "id": 2, "tankName": "S-Tank 2", "location": "Coimbatore", "waterLevel": 60 },
+    { "id": 3, "tankName": "S-Tank 3", "location": "Madurai", "waterLevel": 45 },
+    { "id": 4, "tankName": "S-Tank 4", "location": "Tiruchirappalli", "waterLevel": 90 },
+    { "id": 5, "tankName": "S-Tank 5", "location": "Salem", "waterLevel": 35 },
+    { "id": 6, "tankName": "S-Tank 6", "location": "Erode", "waterLevel": 82 },
+    { "id": 7, "tankName": "S-Tank 7", "location": "Vellore", "waterLevel": 58 },
+    { "id": 8, "tankName": "S-Tank 8", "location": "Tirunelveli", "waterLevel": 49 },
+    { "id": 9, "tankName": "S-Tank 9", "location": "Thoothukudi", "waterLevel": 67 },
+    { "id": 10, "tankName": "S-Tank 10", "location": "Dindigul", "waterLevel": 73 },
+    { "id": 11, "tankName": "S-Tank 11", "location": "Cuddalore", "waterLevel": 29 },
+    { "id": 12, "tankName": "S-Tank 12", "location": "Thanjavur", "waterLevel": 81 },
+    { "id": 13, "tankName": "S-Tank 13", "location": "Karur", "waterLevel": 65 },
+    { "id": 14, "tankName": "S-Tank 14", "location": "Nagapattinam", "waterLevel": 54 },
+    { "id": 15, "tankName": "S-Tank 15", "location": "Namakkal", "waterLevel": 47 },
+    { "id": 16, "tankName": "S-Tank 16", "location": "Ariyalur", "waterLevel": 88 },
+    { "id": 17, "tankName": "S-Tank 17", "location": "Krishnagiri", "waterLevel": 77 },
+    { "id": 18, "tankName": "S-Tank 18", "location": "Tiruvannamalai", "waterLevel": 43 },
+    { "id": 19, "tankName": "S-Tank 19", "location": "Dharmapuri", "waterLevel": 52 },
+    { "id": 20, "tankName": "S-Tank 20", "location": "Villupuram", "waterLevel": 38 },
+    { "id": 21, "tankName": "S-Tank 21", "location": "Kancheepuram", "waterLevel": 66 },
+    { "id": 22, "tankName": "S-Tank 22", "location": "Perambalur", "waterLevel": 79 },
+    { "id": 23, "tankName": "S-Tank 23", "location": "Pudukkottai", "waterLevel": 50 },
+    { "id": 24, "tankName": "S-Tank 24", "location": "Sivaganga", "waterLevel": 21 },
+    { "id": 25, "tankName": "S-Tank 25", "location": "Virudhunagar", "waterLevel": 33 },
+    { "id": 26, "tankName": "S-Tank 26", "location": "Tenkasi", "waterLevel": 72 },
+    { "id": 27, "tankName": "S-Tank 27", "location": "Ramanathapuram", "waterLevel": 90 },
+    { "id": 28, "tankName": "S-Tank 28", "location": "Nilgiris", "waterLevel": 55 },
+    { "id": 29, "tankName": "S-Tank 29", "location": "Mayiladuthurai", "waterLevel": 68 },
+    { "id": 30, "tankName": "S-Tank 30", "location": "Theni", "waterLevel": 40 },
+    { "id": 31, "tankName": "S-Tank 31", "location": "Kallakurichi", "waterLevel": 60 },
+    { "id": 32, "tankName": "S-Tank 32", "location": "Tirupattur", "waterLevel": 74 },
+    { "id": 33, "tankName": "S-Tank 33", "location": "Ranipet", "waterLevel": 31 },
+    { "id": 34, "tankName": "S-Tank 34", "location": "Chengalpattu", "waterLevel": 86 },
+    { "id": 35, "tankName": "S-Tank 35", "location": "Tiruchengode", "waterLevel": 59 },
+    { "id": 36, "tankName": "S-Tank 36", "location": "Avadi", "waterLevel": 42 },
+    { "id": 37, "tankName": "S-Tank 37", "location": "Ambur", "waterLevel": 64 },
+    { "id": 38, "tankName": "S-Tank 38", "location": "Pollachi", "waterLevel": 34 },
+    { "id": 39, "tankName": "S-Tank 39", "location": "Udumalpet", "waterLevel": 46 },
+    { "id": 40, "tankName": "S-Tank 40", "location": "Sankarankovil", "waterLevel": 85 },
+    { "id": 41, "tankName": "S-Tank 41", "location": "Palani", "waterLevel": 23 },
+    { "id": 42, "tankName": "S-Tank 42", "location": "Hosur", "waterLevel": 71 },
+    { "id": 43, "tankName": "S-Tank 43", "location": "Kumbakonam", "waterLevel": 56 },
+    { "id": 44, "tankName": "S-Tank 44", "location": "Chidambaram", "waterLevel": 20 },
+    { "id": 45, "tankName": "S-Tank 45", "location": "Mettupalayam", "waterLevel": 63 },
+    { "id": 46, "tankName": "S-Tank 46", "location": "Tambaram", "waterLevel": 48 },
+    { "id": 47, "tankName": "S-Tank 47", "location": "Vaniyambadi", "waterLevel": 91 },
+    { "id": 48, "tankName": "S-Tank 48", "location": "Manapparai", "waterLevel": 37 },
+    { "id": 49, "tankName": "S-Tank 49", "location": "Arakkonam", "waterLevel": 100 },
+    { "id": 50, "tankName": "S-Tank 50", "location": "Thiruvallur", "waterLevel": 3 }
   ]
 }

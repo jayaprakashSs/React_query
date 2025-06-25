@@ -18,9 +18,9 @@ const ReactQueryFetch = () => {
   } = useQuery({
     queryKey: ["posts"],
     queryFn: fetchPosts,
-    // staleTime:5000, // Data is fresh for 5 seconds
-    // refetchInterval: 1000, // Refetch every 1 seconds
-    // refetchIntervalInBackground: false, // Continue refetching even when the tab is in the background
+    staleTime:5000, // Data is fresh for 5 seconds
+    refetchInterval: 1000, // Refetch every 1 seconds
+    refetchIntervalInBackground: false, // Continue refetching even when the tab is in the background
   });
 
   if (isLoading) return <p>Loading posts...</p>;
